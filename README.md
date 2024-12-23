@@ -9,3 +9,14 @@ This project is intended for **educational purposes only**. It is designed to de
 - By using this project, you agree to use it responsibly and within legal boundaries.
 
 Please ensure you have permission and legal authorization before utilizing or deploying this software.
+
+---
+
+## How to Use This Keylogger
+
+### Prerequisites:
+1. **Python 3**: Ensure you have Python 3 installed. You can download it from [here](https://www.python.org/downloads/).
+2. **pynput Library**: This keylogger uses the `pynput` library to capture keystrokes. To install it, run the following command:
+
+   ```bash
+   pip install pynput
